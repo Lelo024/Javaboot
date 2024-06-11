@@ -7,3 +7,6 @@ Desafio 01 (Simulando uma conta bancária através do terminal).
 ## 22/05/2024
 Desafio - Controle de fluxo (contador de interações).
 * Código armazenado no repositório ControleFluxo.
+## 11/06/204
+Desafio Modelagem e Diagramação de um Componente iPhone
+*Diagrama armazenado no arquivo Modelagem e Diagramação
