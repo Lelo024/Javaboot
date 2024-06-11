@@ -9,4 +9,4 @@ Desafio - Controle de fluxo (contador de interações).
 * Código armazenado no repositório ControleFluxo.
 ## 11/06/204
 Desafio Modelagem e Diagramação de um Componente iPhone
-*Diagrama armazenado no arquivo Modelagem e Diagramação
+*Diagrama armazenado no repositório ModelagemDiagramacao
