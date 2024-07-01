@@ -1,25 +1,14 @@
-public class ContaPoupanca {
-    private int agencia;
-    private int numero;
-    private double saldo;
-
-    public void sacar() {
-
-    }
-    public void depositar() {
-        
-    }
-    public void transferir() {
-        
-    }
-    public int getAgencia() {
-        return agencia;
-    }
-    public int getNumero() {
-        return numero;
-    }
-    public double getSaldo() {
-        return saldo;
-    }
+public class ContaPoupanca extends conta {
     
+  private static int SEQUENCIAL = 1;
+
+  public ContaPoupanca() {
+      super.agencia = AGENCIA_PADRAO;
+      super.numero = SEQUENCIAL++;    
+    }
+    @Override
+  public void imprimirExtrato() {
+    System.out.println("=== Extrato Conta Poupanca ===");
+    super.imprimirInfoComuns();  
+}
 }
