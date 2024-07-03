@@ -7,6 +7,8 @@ public class Mentoria {
     private String Descricao;
     private LocalDate Data;
 
+    public Mentoria() {
+    }
     public String getTitulo() {
         return Titulo;
     }
