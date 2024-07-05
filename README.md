@@ -9,10 +9,10 @@ Desafio - Controle de fluxo (contador de interações).
 * Código armazenado no repositório ControleFluxo.
 ## 11/06/2024
 Desafio Modelagem e Diagramação de um Componente iPhone
-*Diagrama armazenado no repositório ModelagemDiagramacao
+* Diagrama armazenado no repositório ModelagemDiagramacao
 ## 02/07/2024
 Desafio 2 - Banco Digital
-*Código armazenado no repositório DesafioBanco2
+* Código armazenado no repositório DesafioBanco2
 ## 04/07/2024
 Desafio 3  - Poo
-*código armazenado no repositório DesafioPoo
+* código armazenado no repositório DesafioPoo
