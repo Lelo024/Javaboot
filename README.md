@@ -16,3 +16,6 @@ Desafio 2 - Banco Digital
 ## 04/07/2024
 Desafio 3  - Poo
 * código armazenado no repositório DesafioPoo
+## 05/07/2024
+Desafio 4  - Patterns
+* código armazenado no repositório DesignPattern
