@@ -1,5 +1,7 @@
 package src.Strategy;
 
-public interface comportamento {
+public interface Comportamento {
+    Object mover = null;
+
     void mover();
 }
